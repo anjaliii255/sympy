@@ -10,7 +10,7 @@ from sympy.core.symbol import Symbol
 from sympy.core.sympify import sympify
 from sympy.utilities.iterables import iterable
 
-
+#comment
 def euler_equations(L, funcs=(), vars=()):
     r"""
     Find the Euler-Lagrange equations [1]_ for a given Lagrangian.
